@@ -1,0 +1,13 @@
+[package]
+name = "confignode"
+description = "A library to parse Kerbal Space Program 1 ConfigNode files"
+version = "0.1.0"
+edition = "2021"
+authors = ["renshyle <renshyle@proton.me>"]
+repository = "https://github.com/renshyle/confignode"
+license = "MIT"
+categories = ["parser-implementations"]
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
